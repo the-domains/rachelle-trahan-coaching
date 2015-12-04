@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rachelle Trahan Coaching]]></title>
         <description><![CDATA[Rachelle Trahan Coaching]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rachelle-trahan-coaching/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 16:55:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 16:59:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rachelle-trahan-coaching/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reclaim Your Right To Exist With These Mantras]]></title>
+            <description><![CDATA[<article><h1>Reclaim Your Right To Exist With These Mantras</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c2c31a98003c8afebb83061d643f771b70440b4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rachelle-trahan-coaching/reclaim-your-right-to-exist-with-these-mantras/index.html</link>
+            <guid isPermaLink="false">49aabd98-83d2-4d61-aeb5-75d57ac7e2b1</guid>
+            <pubDate>Fri, 04 Dec 2015 16:58:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We Are Enough]]></title>
             <description><![CDATA[<article><h1>We Are Enough</h1><p>Origination of our power begins with feeling grounded and rooted.  When we know who we are at our core, we trust that we are connected to the earth and all things.  When we believe we are unworthy or undeserving, we become uprooted.  We begin to feel unsafe and out of balance,  lost and broken.  This is a sign that it is time to return to our original source of knowing that we are "ENOUGH".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3d66bbbe98b4683150efd92e80b58081573b329.jpg"></article>]]></description>
-            <link>undefinedwe-are-enough/index.html</link>
+            <link>https://thegrid.ai/rachelle-trahan-coaching/we-are-enough/index.html</link>
             <guid isPermaLink="false">b0e57b19-d8aa-4961-92d2-3261ccbff169</guid>
             <pubDate>Fri, 04 Dec 2015 16:55:01 GMT</pubDate>
         </item>
