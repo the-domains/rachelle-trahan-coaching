@@ -1,7 +1,7 @@
 name: Rachelle Trahan Coaching
 favicon: null
-layout_spectrum: 0.751497921301052
-typography_spectrum: 0.1555280366446823
+layout_spectrum: 0.52095
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9822387716267258
-  lightness: 0.4923929376527667
-  saturation: 0.6407688001636416
-  rhythmicContrast: 0.787328387144953
+    - '#7a643b'
+    - '#98886e'
+    - '#412f19'
+    - '#a6c9cd'
+    - '#42858e'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
