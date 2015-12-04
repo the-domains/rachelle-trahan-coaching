@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rachelle Trahan Coaching]]></title>
+        <description><![CDATA[Rachelle Trahan Coaching]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Dec 2015 16:55:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We Are Enough]]></title>
+            <description><![CDATA[<article><h1>We Are Enough</h1><p>Origination of our power begins with feeling grounded and rooted.  When we know who we are at our core, we trust that we are connected to the earth and all things.  When we believe we are unworthy or undeserving, we become uprooted.  We begin to feel unsafe and out of balance,  lost and broken.  This is a sign that it is time to return to our original source of knowing that we are "ENOUGH".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3d66bbbe98b4683150efd92e80b58081573b329.jpg"></article>]]></description>
+            <link>undefinedwe-are-enough/index.html</link>
+            <guid isPermaLink="false">b0e57b19-d8aa-4961-92d2-3261ccbff169</guid>
+            <pubDate>Fri, 04 Dec 2015 16:55:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
